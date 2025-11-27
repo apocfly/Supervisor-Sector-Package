@@ -1,0 +1,5 @@
+.sentry-native/
+/Data/Sector/*.rwy
+version.txt
+euroscope_sector_providers.txt
+SectorFileProviderDescriptor.txt

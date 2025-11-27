@@ -1,0 +1,4 @@
+VCCS
+Ts3Server:127.0.0.1
+Ts3Port:6809
+END

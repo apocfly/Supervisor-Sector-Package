@@ -1,0 +1,12 @@
+VOICE
+END
+PROFILE
+PROFILE:*_OBS:600:0
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:*_SUP:1500:1
+ATIS2:Network Superivisors
+ATIS3:Not providing ATC services
+ATIS4:Use ".wallop" to call me
+END

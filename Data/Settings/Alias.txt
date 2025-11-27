@@ -1,0 +1,16 @@
+;Common part|ͨ��
+.r roger.
+.n negative.
+.a affirm.
+.sb standby.
+.d disregard.
+.cor corrction
+.s Supervisor
+
+;Supervisor Only|SUPר��
+.hello Hello, my name is $2, and I'm one of the Network Superivisors.
+.how How can I help you.
+.res Hello, Supervisor calling, please respond
+.enjoya It was just a routine check if you're still behind the radar screen - thank for your time, enjoy your controllor!
+.enjoyp Thank you very much, Enjoy your flight!
+.close The issue has been colsed.

@@ -1,0 +1,45 @@
+RecentFiles	Recent1	\Data\ASR\SUPER.asr
+ASRFastKeys	1	\Data\ASR\SUPER.asr
+Settings	SettingsfileVOICE	\Data\Settings\Voice.txt
+Settings	sector	\Data\Sector\SUPER.sct
+Settings	SettingsfileSIL	\Data\Settings\Lists.txt
+Settings	SettingsfileSEL	\Data\Settings\Lists.txt
+Settings	SettingsfileDEP	\Data\Settings\Lists.txt
+Settings	SettingsfileARR	\Data\Settings\Lists.txt
+Settings	SettingsfileFP	\Data\Settings\Lists.txt
+Settings	SettingsfileCONFLICT	\Data\Settings\Lists.txt
+Settings	SettingsfilePILOTING	\Data\Settings\Lists.txt
+Settings	SettingsfileORIGPLANE	\Data\Settings\Lists.txt
+Settings	SettingsfileSTUP	\Data\Settings\Lists.txt
+Settings	SettingsfileTAXIOUT	\Data\Settings\Lists.txt
+Settings	SettingsfileTAKEOFF	\Data\Settings\Lists.txt
+Settings	SettingsfileADCS	\Data\Settings\Lists.txt
+Settings	SettingsfileTAXIIN	\Data\Settings\Lists.txt
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\Symbology.txt
+Settings	SettingsfilePROFILE	\Data\Settings\Voice.txt
+Settings	SettingsfileTAGS	\Data\Settings\TagDefinitions.txt
+Settings	SettingsfilePLUGINS	\Data\Settings\Plugins.txt
+Settings	Settingsfile	\Data\Settings\GeneralSettings.txt
+Settings	SettingsfileSCREEN	\Data\Settings\ScreenLayout.txt
+Settings	SettingsfileVCCS	\Data\Settings\VCCS.txt
+Settings	airlines	\Data\ICAO\ICAO_Airlines.txt
+Settings	airports	\Data\ICAO\ICAO_Airports.txt
+Settings	aircraft	\Data\ICAO\ICAO_Aircraft.txt
+Settings	alias	\Data\Settings\Alias.txt
+Settings	airways	\Data\Navdata\AIRWAY.txt
+Settings	airportcoords	\Data\Navdata\ICAO.txt
+Settings	ipaddr	\Data\Settings\IP_Address.txt
+Settings	performance	\Data\Settings\AircraftPerformance.txt
+Plugins	Plugin0	\Data\Plugins\TopSky\SUPER\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\Data\Plugins\MTEP\MTEPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	realname	
+LastSession	certificate	
+LastSession	facility	0
+LastSession	rating	10
+LastSession	tovatsim	0
+LastSession	simdatapublish	0
