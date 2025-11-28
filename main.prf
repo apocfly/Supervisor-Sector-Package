@@ -37,9 +37,10 @@ Plugins	Plugin1	\Data\Plugins\MTEP\MTEPlugin.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	Ground Radar display
 LastSession	connecttype	0
-LastSession	realname	
-LastSession	certificate	
 LastSession	facility	0
 LastSession	rating	10
 LastSession	tovatsim	0
 LastSession	simdatapublish	0
+LastSession	atis_freq4	118000
+Settings	AselKey	5111808
+Settings	FreqKey	3604480

@@ -1,5 +1,7 @@
 .sentry-native/
-/Data/Sector/*.rwy
+*.rwy
 version.txt
 euroscope_sector_providers.txt
 SectorFileProviderDescriptor.txt
+Documentation/
+.DS_Store
