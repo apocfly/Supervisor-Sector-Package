@@ -1,6 +1,3 @@
-121.4.124.175	Master-Gui's
+fsd.apocfly.com	APOCFLY
 flyatcsim.club	Atc-Simulator-Group
-fly.cnmsun.cn	FSPsim
-fly2.cnmsun.cn	FSPsim2
-39688.cn		Quanquan
-home.90927.top	Lingkong
+fsd.connect.vatsim.net 	VATSIM
